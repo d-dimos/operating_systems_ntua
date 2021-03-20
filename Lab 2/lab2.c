@@ -1,14 +1,6 @@
 /**
  * \file name: lab2.c
  * \Operating Systems - Lab 2
- 
- * \Dimitris Dimos <dimitris.dimos647@gmail.com>
- * \ID: 03117165
-  
- * \Christos Dimopoulos <chrisdim1999@gmail.com>
- * \ID: 03117037
- 
- * \date: 2020-03-07
  * \Program that utilises signals sent to father and children processes
 */
 
