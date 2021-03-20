@@ -1,9 +1,6 @@
 /**
  * \file lab3.c
  * \Operating Systems - Lab 3
- * \author: Christos Dimopoulos [03117037] - <chrisdim1999@gmail.com>
- * \author: Dimitris Dimos [03117165] - <dimitris.dimos647@gmail.com>
- * \date: 2020-05-15
  * \Program that utilises pipes between father and n children tasks
 */
 
