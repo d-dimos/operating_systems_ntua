@@ -1,9 +1,6 @@
 /**
  * \file lab4.c
  * \Operating Systems - Lab 4
- * \author: Christos Dimopoulos [03117037] - <chrisdim1999@gmail.com>
- * \author: Dimitris Dimos [03117165] - <dimitris.dimos647@gmail.com>
- * \date: 2020-02-02
  * \Program that implements a client that connects to a server through a socket
 */
 
