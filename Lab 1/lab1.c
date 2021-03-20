@@ -1,10 +1,6 @@
 /**
  * \file Lab1.c
  * \Operating Systems
- * \author Dimitris Dimos <dimitris.dimos647@gmail.com>
- * \author Christos Dimopoulos <chrisdim1999@gmail.com>
- * \ID: 03117165
- * \date 2020-03-07
  * \Program that makes a caesar-ciphered copy of an existing file and decrypts it in standard output
  */
 
