@@ -1,6 +1,6 @@
 /**
  * \file Lab1.c
- * \Operating Systems
+ * \Operating Systems - Lab 1
  * \Program that makes a caesar-ciphered copy of an existing file and decrypts it in standard output
  */
 
